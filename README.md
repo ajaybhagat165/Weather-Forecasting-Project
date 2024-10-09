@@ -38,3 +38,21 @@ The Weather Data Visualization project allows users to analyze and visualize wea
    - Custom Filtering: Easily filter and visualize data for selected cities, enabling focused analysis
 
 # Code Explanation
+The main components of the script include:
+   - Loading Data: The script uses pandas to load weather data from a specified CSV file.
+   - Plotting Function: The plot_chart function generates plots based on user input.It filters data for selected cities and allows for different chart types:
+       - Line Chart: Visualizes trends over time for selected columns.
+       - Bar Chart: Compares values for different cities and columns.
+       - Pie Chart: Displays proportions for a single column per city.
+   - User Input: The script collects user input for cities, columns, and chart type, ensuring flexibility in data visualization
+
+# Contributing
+Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request. Suggestions for improvements or additional features are encouraged.
+
+# License
+his project is licensed under the MIT License.
+
+# Contact
+Ajay Bhagat-[ajbt942438@gmail.com]
+     
+      
