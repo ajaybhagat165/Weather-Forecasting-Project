@@ -29,6 +29,8 @@ The Weather Data Visualization project allows users to analyze and visualize wea
 # 2. Humidity Over Time
 ![Screenshot (145)](https://github.com/user-attachments/assets/c6e5f498-4d80-4413-925e-cc9fc5c9122e)
 
+# 3. Wind Speed Over Time
+![Screenshot (146)](https://github.com/user-attachments/assets/da2a8cc6-0451-47f6-bc07-e10ac40ae229)
 
 
 
