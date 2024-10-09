@@ -33,4 +33,8 @@ The Weather Data Visualization project allows users to analyze and visualize wea
 ![Screenshot (146)](https://github.com/user-attachments/assets/da2a8cc6-0451-47f6-bc07-e10ac40ae229)
 
 # Features 
-   #### - Interactive Visualization: Users can input cities and columns of interest for tailored data analysis.
+   - Interactive Visualization: Users can input cities and columns of interest for tailored data analysis.
+   - Multiple Chart Types: Supports line, bar, and pie charts for diverse data representation.
+   - Custom Filtering: Easily filter and visualize data for selected cities, enabling focused analysis
+
+# Code Explanation
