@@ -8,4 +8,5 @@ The Weather Data Visualization project allows users to analyze and visualize wea
   - [Contributing](#Contributing)
   - [License](#License)
   - [Contact](#Contact)
-    
+# Installation
+  - [Ensure you have Python installed on your machine](#EnsureyouhavePythoninstalledonyourmachine)   
