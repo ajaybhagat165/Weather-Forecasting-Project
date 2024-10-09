@@ -1,6 +1,6 @@
-# Weather-Forecasting-Project
+## Weather-Forecasting-Project
 The Weather Data Visualization project allows users to analyze and visualize weather data from a CSV file for multiple cities. By selecting specific cities and data columns, users can generate various types of charts, including line, bar, and pie charts. This tool is useful for comparing weather metrics across different locations and understanding trends over time.
-# Table of Contents
+## Table of Contents
   - [Installation](#Installation)
   - [Usage](#Usage)
   - [Features](#Features)
@@ -8,11 +8,11 @@ The Weather Data Visualization project allows users to analyze and visualize wea
   - [Contributing](#Contributing)
   - [License](#License)
   - [Contact](#Contact)
-# Installation
+## Installation
   - Ensure you have Python installed on your machine
   - Install the required libraries by running:[pip install pandas matplotlib]
   - Download the Weather_Data_CSV_File.csv and place it in your desired directory. Update the file path in the script as necessary.
-# Usage
+## Usage
   - Open the Python script in your preferred IDE or text editor.
   - Run the script:[python your_script_name.py]
   - Follow the prompts to enter:
