@@ -23,6 +23,5 @@ The Weather Data Visualization project allows users to analyze and visualize wea
   - Enter the cities you want to visualize (comma-separated): Indore, Pune
   - Enter the columns you want to visualize (comma-separated): Temperature, Humidity
   - Enter the chart type (pie, line, bar): line
-    
- 
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> 
     
