@@ -10,3 +10,4 @@ The Weather Data Visualization project allows users to analyze and visualize wea
   - [Contact](#Contact)
 # Installation
   - Ensure you have Python installed on your machine
+  - Install the required libraries by running:
