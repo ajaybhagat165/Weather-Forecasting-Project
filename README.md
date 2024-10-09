@@ -20,6 +20,9 @@ The Weather Data Visualization project allows users to analyze and visualize wea
      - Columns you want to visualize (comma-separated)
      - Chart type (pie, line, bar)
       # Example Input
+     - Enter the cities you want to visualize (comma-separated): CityA, CityB
+     - Enter the columns you want to visualize (comma-separated): Temperature, Humidity
+     - Enter the chart type (pie, line, bar): line
     
  
     
