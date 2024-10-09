@@ -10,4 +10,16 @@ The Weather Data Visualization project allows users to analyze and visualize wea
   - [Contact](#Contact)
 # Installation
   - Ensure you have Python installed on your machine
-  - Install the required libraries by running:
+  - Install the required libraries by running:[pip install pandas matplotlib]
+  - Download the Weather_Data_CSV_File.csv and place it in your desired directory. Update the file path in the script as necessary.
+# Usage
+  - Open the Python script in your preferred IDE or text editor.
+  - Run the script:[python your_script_name.py]
+  - Follow the prompts to enter:
+     - Cities you want to visualize (comma-separated)
+     - Columns you want to visualize (comma-separated)
+     - Chart type (pie, line, bar)
+   # Example Input
+
+  - 
+    
