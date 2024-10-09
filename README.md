@@ -4,8 +4,8 @@ The Weather Data Visualization project allows users to analyze and visualize wea
   - [Installation](#Installation)
   - [Usage](#Usage)
   - [Features](#Features)
-Code Explanation
-Contributing
-License
-Contact
-  - [Categories](#categories)
+  - [Code Explanation](#Code Explanation)
+  - [Contributing](#Contributing)
+  - [License](#License)
+  - [Contact](#Contact)
+    
