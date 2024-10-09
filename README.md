@@ -23,15 +23,14 @@ The Weather Data Visualization project allows users to analyze and visualize wea
   - Enter the cities you want to visualize (comma-separated): Indore, Pune
   - Enter the columns you want to visualize (comma-separated): Temperature, Humidity
   - Enter the chart type (pie, line, bar): line
-# 1. Temperature Over Time
+## 1. Temperature Over Time
 ![Screenshot (143)](https://github.com/user-attachments/assets/acfe543c-c9a3-4645-b630-e4576f826fd5)
 
-# 2. Humidity Over Time
+## 2. Humidity Over Time
 ![Screenshot (145)](https://github.com/user-attachments/assets/c6e5f498-4d80-4413-925e-cc9fc5c9122e)
 
-# 3. Wind Speed Over Time
+## 3. Wind Speed Over Time
 ![Screenshot (146)](https://github.com/user-attachments/assets/da2a8cc6-0451-47f6-bc07-e10ac40ae229)
 
-
-
-    
+# Features 
+   #### - Interactive Visualization: Users can input cities and columns of interest for tailored data analysis.
