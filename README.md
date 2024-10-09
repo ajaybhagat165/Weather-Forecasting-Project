@@ -8,3 +8,4 @@ Code Explanation
 Contributing
 License
 Contact
+  - [Categories](#categories)
